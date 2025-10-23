@@ -1,6 +1,6 @@
 # femtotop v1.0
 
-**Autores:** Diego Bermudo y Marcos Rozas  
+**Autores:** Diego Bermudo y M.R 
 **Versión:** 1.0  
 **Lenguaje:** Bash  
 **Fecha:** Octubre de 2025
