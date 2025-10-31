@@ -1,6 +1,6 @@
 # femtotop v1.0
 
-**Autores:** Diego Bermudo y M.R 
+**Autores:** Diego Bermudo y M.R  
 **Versión:** 1.0  
 **Lenguaje:** Bash  
 **Fecha:** Octubre de 2025
@@ -31,7 +31,11 @@ Para ejecutar correctamente **femtotop**, se necesita:
 
 ## 🧭 Instalación
 
-1. Copiar el script a tu máquina local
+1. Clonar el repositorio desde GitHub:
+   ```bash
+   git clone https://github.com/druxus/femtotop.git
+   cd femtotop
+   ```
 
 2. Dar permisos de ejecución al script:
    ```bash
@@ -147,6 +151,12 @@ DE ACCIONES EN EL SOFTWARE.
 - **Diego Bermudo**  
 - **Marcos Rozas**
 
-IES Virgen de la Paz, Alcobendas
+IES Virgen de la Paz, Alcobendas  
 Asignatura: *Administración de Sistemas Operativos*  
 Curso académico: **2025–2026**
+
+---
+
+## 📦 Repositorio oficial
+
+Repositorio disponible en: [https://github.com/druxus/femtotop](https://github.com/druxus/femtotop)
